@@ -1,0 +1,22 @@
+******CHANGELOG******
+
+***[10/03/2013]***
+--NEW:
+-Files now on GitHub!
+
+--ADDED:
+-The Original (still has viewmodel bugs)
+-GMOD_TOOL STools (hopefully they should work now)
+
+--FIXED:
+-TF2 Community Weapons display appropriate names
+
+***[09/16/2013]***
+--ADDED:
+-Spy Disguise PDA (does nothing, but it's there for you to Spycrab)
+-Main menu backgrounds :D (some made by me)
+
+--FIXED:
+-Player animations update properly
+-Weapon particles are functional, "PrecacheParticleSystem" was added so they are loaded before-hand
+-Weapon sounds are functional (I might of missed some weapons)

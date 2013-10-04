@@ -1,0 +1,63 @@
+
+// ------------------------------------------------------------------------------------ //
+// Flare Gun
+// ------------------------------------------------------------------------------------ //
+"TFWeapon_FlareGun.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/flaregun_shoot.wav"
+}
+
+// ------------------------------------------------------------------------------------ //
+// PISTOL
+// ------------------------------------------------------------------------------------ //
+"TFWeapon_Pistol.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/pistol_shoot.wav"
+}
+
+// ------------------------------------------------------------------------------------ //
+// SHOTGUN
+// ------------------------------------------------------------------------------------ //
+"TFWeapon_Shotgun.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/shotgun_shoot.wav"
+}
+
+"TFWeapon_Shotgun.Reload"
+{
+	"channel"	"CHAN_ITEM"
+	"soundlevel"	"SNDLVL_NORM"
+	"volume"	"1.0"
+	"wave"		"weapons/shotgun_reload.wav"
+}
+
+// ------------------------------------------------------------------------------------ //
+// RPG
+// ------------------------------------------------------------------------------------ //
+"TFWeapon_RPG.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"1.0"
+	"soundlevel"	"SNDLVL_94dB"
+	"wave"		")weapons/rocket_shoot.wav"
+}
+
+// ------------------------------------------------------------------------------------ //
+// SNIPER RIFLE
+// ------------------------------------------------------------------------------------ //
+"Weapon_SniperRifle.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/sniper_shoot.wav"
+}

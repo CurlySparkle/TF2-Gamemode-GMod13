@@ -1,0 +1,6 @@
+
+SceneAnimationFix = {
+-- demoman taunts
+["a"] = "",
+
+}
