@@ -17,7 +17,7 @@ givebundle (equips class set bundle)
 giveweapon (gives a weapon to current class)
 changeclass (changes class)
 changeteam [1/2] (changes team)
-voicemenu [0-2 0-2]
+voicemenu [0-2 0-8]
 voice_menu_1 (opens voice menu)
 voice_menu_2 (ditto)
 voice_menu_3 (ditto)
