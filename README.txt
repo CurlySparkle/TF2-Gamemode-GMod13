@@ -7,17 +7,6 @@ This is the Team Fortress 2 Gamemode for Garry's Mod 13. Thank you so much for t
 
 The gamemode is stable for use, but many bugs are still there. I am not a super-excellent LUA coder myself (mostly chicken scratch), but it would be nice to find what other issues are present besides the one I found on my free time. Many items/weapons/miscs are outdated, at the moment I'm not worried about implementing new things, or current changes, I care about getting the base gamemode stable. :-)
 
-This gamemode is free and open source under GPL Version 3.0 License.
+This gamemode is free and open source under GPL Version 3.0 License. THE SOFTWARE IS PROVIDED AS IS, NO WARRANTIES, VERY LIMITED HELP/SUPPORT, AND A NOVICE LUA CODER.
 
-******HOW TO USE THIS PROPERLY AND NOT GET LOST******
---CONSOLE COMMANDS:
-givemisc (gives a misc)
-givehat (gives a hat)
-givebundle (equips class set bundle)
-giveweapon (gives a weapon to current class)
-changeclass (changes class)
-changeteam [1/2] (changes team)
-voicemenu [0-2 0-8]
-voice_menu_1 (opens voice menu)
-voice_menu_2 (ditto)
-voice_menu_3 (ditto)
+***Report any bugs to the "Issues" tab. Although I may/may not be able to fix them (because of my LUA skill), it helps me a lot when I do get to the big squashing process (usually my free time).***
