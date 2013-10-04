@@ -9,4 +9,4 @@ The gamemode is stable for use, but many bugs are still there. I am not a super-
 
 This gamemode is free and open source under GPL Version 3.0 License. THE SOFTWARE IS PROVIDED AS IS, NO WARRANTIES, VERY LIMITED HELP/SUPPORT, AND A NOVICE LUA CODER.
 
-***Report any bugs to the "Issues" tab. Although I may/may not be able to fix them (because of my LUA skill), it helps me a lot when I do get to the bug squashing process (usually my free time).***
+***Report any bugs to the "Issues" tab. Although I may/may not be able to fix them (because of my LUA skill), it helps me a lot when I do get to the bug squashing process (usually my free time :P).***
